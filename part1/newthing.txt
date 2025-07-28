@@ -1,0 +1,3 @@
+some changes
+only squashing
+these two lines
